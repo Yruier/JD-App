@@ -1,0 +1,83 @@
+{
+    "wareDetailComment": {
+        "allCnt": "29234",
+        "badCnt": "139",
+        "canConsultFlag": "true",
+        "code": "0",
+        "commentInfoList": [{
+            "commentData": "礼盒很好，品种丰富。京东的送货服务真是醉了，超级快！昨晚睡觉之前拍的，清晨就送到了。买来送人的不知道味道怎么样，感觉价位挺合适。共11袋平均7元钱一袋。吃起来也方便。赞赞赞。",
+            "commentDate": "2017-12-06 09:20:08",
+            "commentId": "11045118453",
+            "commentScore": "5",
+            "commentShareUrl": "http:\/\/share.m.jd.com\/shareOrder\/showSharePage.action?productId=5682344&commentId=3d5e7305-21ad-4c5e-9f21-b5ada2145397",
+            "commentType": "1",
+            "guid": "3d5e7305-21ad-4c5e-9f21-b5ada2145397",
+            "orderDate": "2017-12-04 21:24:22",
+            "pictureInfoList": [{
+                "picURL": "http:\/\/img30.360buyimg.com\/shaidan\/s310x310_jfs\/t14284\/346\/227049499\/237640\/a0d94691\/5a2745c7N50ca8e9b.jpg",
+                "largePicURL": "http:\/\/img30.360buyimg.com\/shaidan\/s640x640_jfs\/t14284\/346\/227049499\/237640\/a0d94691\/5a2745c7N50ca8e9b.jpg"
+            }],
+            "plusAddress": "https:\/\/plus.m.jd.com\/index",
+            "plusAvailable": "103",
+            "praiseCnt": "16",
+            "replyCnt": "0",
+            "userImgURL": "img30.360buyimg.com\/mobile\/s60x60_jfs\/t493\/15\/557644423\/10532\/62d3112\/5473e62aNdb4251d8.png",
+            "userNickName": "蓝***8",
+            "wareAttribute": [{
+                "颜色": "上口心 坚果礼盒2024g"
+            }],
+            "wareAttributes": null
+        }, {
+            "commentData": "满满的一盒，干果装的少了，都合我的胃口，京东快递送货上门，信赖京东。被我吃了三袋了",
+            "commentDate": "2018-02-04 15:52:17",
+            "commentId": "11219066561",
+            "commentScore": "5",
+            "commentShareUrl": "http:\/\/share.m.jd.com\/shareOrder\/showSharePage.action?productId=5682344&commentId=f355cff5-6fb1-4a2a-b299-02763cefae7e",
+            "commentType": "1",
+            "guid": "f355cff5-6fb1-4a2a-b299-02763cefae7e",
+            "orderDate": "2018-02-02 00:30:48",
+            "pictureInfoList": [{
+                "picURL": "http:\/\/img30.360buyimg.com\/shaidan\/s310x310_jfs\/t19456\/317\/429470972\/186077\/ccaecd49\/5a76bbb1Nc1c8071e.jpg",
+                "largePicURL": "http:\/\/img30.360buyimg.com\/shaidan\/s640x640_jfs\/t19456\/317\/429470972\/186077\/ccaecd49\/5a76bbb1Nc1c8071e.jpg"
+            }],
+            "plusAddress": "https:\/\/plus.m.jd.com\/index",
+            "plusAvailable": "101",
+            "praiseCnt": "5",
+            "replyCnt": "0",
+            "userImgURL": "img30.360buyimg.com\/mobile\/s60x60_jfs\/t493\/15\/557644423\/10532\/62d3112\/5473e62aNdb4251d8.png",
+            "userNickName": "1***n",
+            "wareAttribute": [{
+                "颜色": "上口心 果礼礼盒2024g\/盒"
+            }],
+            "wareAttributes": null
+        }, {
+            "commentData": "样式很多，买了两箱！原本打算邮寄回内蒙古老家的，结果地址写成郑州这边了，回家时候还得带回去，好沉啊！",
+            "commentDate": "2018-02-08 19:25:12",
+            "commentId": "11232527619",
+            "commentScore": "5",
+            "commentShareUrl": "http:\/\/share.m.jd.com\/shareOrder\/showSharePage.action?productId=5682344&commentId=4f3f2430-a28a-409d-8097-80297eabda9c",
+            "commentType": "0",
+            "guid": "4f3f2430-a28a-409d-8097-80297eabda9c",
+            "orderDate": "2018-02-06 10:55:11",
+            "pictureInfoList": null,
+            "plusAddress": "https:\/\/plus.m.jd.com\/index",
+            "plusAvailable": "0",
+            "praiseCnt": "0",
+            "replyCnt": "0",
+            "userImgURL": "img30.360buyimg.com\/mobile\/s60x60_jfs\/t493\/15\/557644423\/10532\/62d3112\/5473e62aNdb4251d8.png",
+            "userNickName": "m***i",
+            "wareAttribute": [{
+                "颜色": "上口心 果礼礼盒2024g\/盒"
+            }],
+            "wareAttributes": null
+        }],
+        "consultationCount": "0",
+        "defaultGoodCountText": "MjE1NTbkuKrnlKjmiLfpu5jorqTnu5nkuoblpb3or4Q=",
+        "defaultGoodLogo": "http:\/\/m.360buyimg.com\/mobilecms\/jfs\/t10447\/176\/1359340654\/2177\/9ceed2ba\/59df1d27N55b368df.png",
+        "goodCnt": "28925",
+        "goods": "99%",
+        "normalCnt": "170",
+        "pictureCnt": "1538",
+        "showPicCnt": "1538"
+    }
+}

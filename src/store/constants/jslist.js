@@ -1,0 +1,1 @@
+export const JD_LIST = 'JD_LIST'

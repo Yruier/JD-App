@@ -1,0 +1,29 @@
+.App-footer {
+    width: 100%;
+    height: .8rem;
+    border-top: 1px solid #ddd;
+    display: flex;
+}
+
+.hide-footer {
+    display: none;
+}
+
+.footer-item {
+    flex: 1;
+    text-align: center;
+}
+
+.iconfont {
+    display: block;
+    font-size: .4rem;
+}
+
+.icon-text {
+    display: block;
+}
+
+.footer-active .iconfont,
+.footer-active .icon-text {
+    color: #F23030;
+}

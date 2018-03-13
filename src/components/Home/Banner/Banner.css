@@ -1,0 +1,42 @@
+.space-carousel {
+    padding: 16px;
+    background: #DEF1E5;
+    overflow: hidden;
+}
+
+.banner-carousel .v-item {
+    height: 36px;
+    line-height: 36px;
+    padding-left: 10px;
+}
+
+.sub-title {
+    color: #888;
+    font-size: 14px;
+    padding: 30px 0 18px 0;
+}
+
+.banner,
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+.banner-news {
+    width: 100%;
+    height: .5rem;
+    display: flex;
+    line-height: .5rem;
+}
+
+.banner-left {
+    width: 1.5rem;
+}
+
+.banner-center {
+    flex: 1
+}
+
+.banner-right {
+    width: 1rem;
+}

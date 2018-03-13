@@ -1,0 +1,31 @@
+export const navs = [{
+    icon: 'icon1.png',
+    text: '京东超市'
+}, {
+    icon: 'icon2.png',
+    text: '全球购'
+}, {
+    icon: 'icon3.png',
+    text: '京东服饰'
+}, {
+    icon: 'icon4.png',
+    text: '京东生鲜'
+}, {
+    icon: 'icon5.png',
+    text: '京东到家'
+}, {
+    icon: 'icon6.png',
+    text: '京东缴费'
+}, {
+    icon: 'icon7.png',
+    text: '领京豆'
+}, {
+    icon: 'icon8.png',
+    text: '领券'
+}, {
+    icon: 'icon9.png',
+    text: '赚钱'
+}, {
+    icon: 'icon10.png',
+    text: '物流查询'
+}]

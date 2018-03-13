@@ -1,0 +1,70 @@
+.home-list-box {
+    position: relative;
+}
+
+.home-list-tit {
+    width: 100%;
+    line-height: .5rem;
+    position: sticky;
+    text-align: center;
+}
+
+.home-list-tit i.iconfont {
+    position: absolute;
+    top: 0;
+    right: .2rem
+}
+
+.list-item {
+    width: 100%;
+    height: 2rem;
+    display: flex;
+}
+
+.list-item-pic {
+    width: 2rem;
+    height: 2rem;
+}
+
+.list-item-pic img {
+    width: 100%;
+    height: 100%;
+}
+
+.list-item-text {
+    flex: 1;
+}
+
+.list-item-text-word {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    word-break: break-all;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+/* 切换样式 */
+
+.home-list-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.home-list-flex a {
+    width: 50%;
+    height: 5rem;
+}
+
+.home-list-flex .list-item {
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.home-list-flex .list-item-pic {
+    width: 100%;
+    height: 3.2rem;
+}

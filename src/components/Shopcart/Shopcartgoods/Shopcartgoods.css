@@ -1,0 +1,38 @@
+.shopcart-goods {
+    flex: 1;
+    overflow-y: scroll;
+}
+
+.shopcart-item {
+    width: 100%;
+    height: 2rem;
+    display: flex;
+}
+
+.shopcart-input {
+    width: .5rem;
+    height: 100%;
+    text-align: center;
+    line-height: 2rem;
+}
+
+.shopcart-input input {
+    width: .3rem;
+    height: .3rem;
+}
+
+.shopcart-img {
+    width: 2rem;
+    height: 2rem;
+    padding: .2rem;
+    box-sizing: border-box;
+}
+
+.shopcart-img img {
+    width: 100%;
+    height: 100%;
+}
+
+.shopcart-text {
+    flex: 1;
+}
